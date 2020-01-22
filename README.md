@@ -1,6 +1,6 @@
 # CONTACTS-WEB-back-end
 
-A aplicação é uma api construída em Node js com objetivo de servir a aplicação [front-end](https://github.com/DavidFerreiraM1/contacts-web-front-end)
+A aplicação é uma api-rest construída em Node js com objetivo de servir a aplicação [front-end](https://github.com/DavidFerreiraM1/contacts-web-front-end)
 
 Um dos objetivos da aplicação também consiste em assegurar que o desenvolvedor responsável possui conhecimentos e habilidades para o bom desenvolvimento de uma api-rest em Node Js.
 
